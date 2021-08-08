@@ -1,0 +1,10 @@
+{
+  "name":"CPSText",
+  "cn":"CPS测试工具",
+  "ver":"N/A",
+  "zuozhe":"小邓学编程",
+  "info":"CPSText是一个使用Pyton3/PyGame编写的一键CPS测试工具。",
+  "down":"https://minerstudio.oss-cn-shenzhen.aliyuncs.com/Download/CPS%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7.zip",
+  "md5":"bcac23f7e0e85bfdc5c61bfaf6c6de29",
+  "code":"https://github.com/Miner-Studio-1049/CPSTest"
+}

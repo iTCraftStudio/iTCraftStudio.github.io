@@ -1,0 +1,48 @@
+.down ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+/*background-color: #f1f1f1;*/
+width: 250px;
+height: 200px;
+text-align: center;
+margin: 10px;
+border-radius: 25px;
+}
+
+.down table {
+width: 100px;
+height: 100px;
+margin: 0 auto;
+
+}
+
+.down li span {
+font-size: 15;
+color: #999;
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+}
+
+.down li p {
+font-size: 24px;
+color: #333;
+margin-bottom: 5px;
+}
+
+.down li a {
+cursor: pointer;
+border: 1px solid #CC6600;
+border-radius: 30px;
+padding: 6px 12px;
+font-size: 14px;
+color: #CC6600;
+text-decoration: none;
+-webkit-transition: all .3s ease;
+-o-transition: all .3s ease;
+transition: all .3s ease;
+white-space: nowrap;
+}

@@ -1,0 +1,11 @@
+.title {
+	text-align:center
+}
+
+.main {
+	list-style-type: none;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	border-radius:25px;
+	width: 65%;
+}
